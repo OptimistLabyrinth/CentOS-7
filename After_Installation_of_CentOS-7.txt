@@ -1,0 +1,17 @@
+***** After_Installation_of_CentOS-7 *****
+***** After_Installation_of_CentOS-7 *****
+***** After_Installation_of_CentOS-7 *****
+***** After_Installation_of_CentOS-7 *****
+***** After_Installation_of_CentOS-7 *****
+
+
+
+-> Numeric Keyboard Not Working???
+     * link : https://unix.stackexchange.com/questions/34027/enabling-numeric-keypad
+     
+     Go to 'Settings > Universal Access > Pointing & Clicking' and change Mouse Keys to [ OFF ] 
+
+
+
+
+
