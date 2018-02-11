@@ -6,10 +6,74 @@
 
 
 
+-> Change $PATH
+	create a file in "/etc/profile.d/" with '.sh', '.csh' extension
+
+
+-> Install Gnome Desktop Extensions
+	(location : /home/yks93/.local/share/gnome-shell/extensions)
+	a) Clipboard indicator
+	a) Coverflow alt-tab
+	a) Freon - cpu temperature
+	a) No topleft hot corner
+	a) Remove dropdown arrows
+	a) Todo.txt
+	a) Cpufreq
+
+
 -> Numeric Keyboard Not Working???
      * link : https://unix.stackexchange.com/questions/34027/enabling-numeric-keypad
      
      Go to 'Settings > Universal Access > Pointing & Clicking' and change Mouse Keys to [ OFF ] 
+
+
+-> Install Java 
+	* link : http://www.oracle.com/technetwork/java/javase/overview/index.html
+	* link : 
+	
+	$ sudo yum update
+	$ cd ~/Downloads/
+	$ rpm 
+
+
+-> Install Anaconda
+	* link : https://conda.io/docs/user-guide/install/index.html
+
+
+-> Install Software Collections
+	* link : https://wiki.centos.org/AdditionalResources/Repositories/SCL
+	
+	$ sudo yum update
+	$ sudo yum install centos-release-scl
+
+
+-> Install Development Toolset 7 from Software Collections
+	* link : https://www.softwarecollections.org/en/scls/rhscl/devtoolset-7/
+	
+	$ sudo yum install centos-release-scl
+	$ sudo yum-config-manager --enable rhel-server-rhscl-7-rpms
+	$ sudo yum install devtoolset-7
+	// do not enable devtoolset-7... this is not a complete set
+	// add path manually by creating file /etc/profile.d/
+
+-> Install Git 2.9 from Software Collections
+	* link : https://www.softwarecollections.org/en/scls/rhscl/rh-git29/
+	
+	$ sudo yum install centos-release-scl
+	$ sudo yum-config-manager --enable rhel-server-rhscl-7-rpms
+	$ sudo yum install rh-git29
+	// add path manually by creating file /etc/profile.d/
+	
+
+-> Install Eclipse IDE
+	* link : http://www.eclipse.org/downloads/
+	
+
+-> Install Visual Studio Code 
+	* link : https://code.visualstudio.com/docs/setup/linux
+
+
+-> 
 
 
 
