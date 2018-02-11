@@ -21,6 +21,11 @@
 	a) Cpufreq
 	a) easyscreencast
 
+-> Icon Theme : gnome-folder, ffw fast forward, 
+-> Gtk+ Theme : gnome-osx, 
+-> Shell Theme : Zuki-shell, Vertex, Viper, Gaia
+	(recommend site : https://www.deviantart.com/)
+
 
 -> Numeric Keyboard Not Working???
      * link : https://unix.stackexchange.com/questions/34027/enabling-numeric-keypad
