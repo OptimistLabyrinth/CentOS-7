@@ -19,6 +19,7 @@
 	a) Remove dropdown arrows
 	a) Todo.txt
 	a) Cpufreq
+	a) easyscreencast
 
 
 -> Numeric Keyboard Not Working???
