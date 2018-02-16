@@ -83,6 +83,17 @@
 	* link : https://code.visualstudio.com/docs/setup/linux
 
 
+-> Install Apache24 (2.4.29 latest version)
+	* link : https://github.com/apache/httpd
+
+
+-> Install MySQL 
+
+
+-> Install PostgreSQL
+	* link : https://www.postgresql.org/docs/devel/static/installation.html
+
+
 -> 
 
 
