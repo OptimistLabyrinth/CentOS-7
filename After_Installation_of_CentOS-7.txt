@@ -91,7 +91,7 @@
 
 
 -> Install PostgreSQL
-	* link : https://www.postgresql.org/docs/devel/static/installation.html
+	* link : https://www.postgresql.org/docs/10/static/installation.html
 
 
 -> 
