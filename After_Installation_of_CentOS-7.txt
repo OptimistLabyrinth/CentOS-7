@@ -28,6 +28,9 @@
 -> Icon Theme : gnome-folder, ffw fast forward, 
 -> Gtk+ Theme : gnome-osx, 
 -> Shell Theme : Zuki-shell, Vertex, Viper, Gaia
+	(Icon : ~/.icons/)
+	(Gtk+ : ~/.themes/)
+	(Shell Theme : ~/.local/share/gnome-shell)
 	(recommend site : https://www.deviantart.com/)
 
 
