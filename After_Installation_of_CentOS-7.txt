@@ -24,6 +24,7 @@
 	a) Todo.txt
 	a) Cpufreq
 	a) easyscreencast
+	a) Battery Percentage
 
 -> Icon Theme : gnome-folder, ffw fast forward, 
 -> Gtk+ Theme : gnome-osx, 
