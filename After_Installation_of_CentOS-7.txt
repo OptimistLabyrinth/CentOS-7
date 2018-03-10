@@ -21,7 +21,7 @@
 	a) Freon - cpu temperature
 	a) No topleft hot corner
 	a) Remove dropdown arrows
-	a) Todo.txt
+	a) Section Todo
 	a) Cpufreq
 	a) easyscreencast
 	a) Battery Percentage
